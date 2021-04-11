@@ -1,0 +1,22 @@
+{
+  "name": "typescript-functions-vs-classess",
+  "version": "1.0.0",
+  "description": "showcase demonstrating difference between approaches written using functions and classess",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gzaripov/typescript-functions-vs-classess.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "gzaripov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gzaripov/typescript-functions-vs-classess/issues"
+  },
+  "homepage": "https://github.com/gzaripov/typescript-functions-vs-classess#readme"
+}

@@ -1,0 +1,1 @@
+# typescript-functions-vs-classess
